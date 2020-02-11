@@ -12,7 +12,7 @@
     animation: fave-heart 1s steps(28);
 
   }
-  .heart:hover {
+  .heart:active {
     background-position: -2800px 0;
     transition: background 1s steps(28);
   }
